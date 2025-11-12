@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84.219" height="84.219" viewBox="0 0 84.219 84.219">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #db4a2d;
+      }
+
+      .cls-2 {
+        fill: #00559a;
+      }
+    </style>
+  </defs>
+  <g id="icons_luminaria_led" transform="translate(42.11 -7.51) rotate(45)">
+    <ellipse id="Ellipse_59" data-name="Ellipse 59" class="cls-1" cx="2.828" cy="3.393" rx="2.828" ry="3.393" transform="translate(22.36 12.18)"/>
+    <ellipse id="Ellipse_60" data-name="Ellipse 60" class="cls-1" cx="3.393" cy="2.828" rx="3.393" ry="2.828" transform="translate(12.18 22.36)"/>
+    <circle id="Ellipse_61" data-name="Ellipse 61" class="cls-1" cx="3.393" cy="3.393" r="3.393" transform="translate(31.408 2)"/>
+    <circle id="Ellipse_62" data-name="Ellipse 62" class="cls-1" cx="3.393" cy="3.393" r="3.393" transform="translate(2 31.408)"/>
+    <circle id="Ellipse_63" data-name="Ellipse 63" class="cls-1" cx="3.393" cy="3.393" r="3.393" transform="translate(51.768 41.588)"/>
+    <circle id="Ellipse_64" data-name="Ellipse 64" class="cls-1" cx="3.393" cy="3.393" r="3.393" transform="translate(41.588 51.768)"/>
+    <circle id="Ellipse_65" data-name="Ellipse 65" class="cls-1" cx="3.393" cy="3.393" r="3.393" transform="translate(61.948 31.408)"/>
+    <circle id="Ellipse_66" data-name="Ellipse 66" class="cls-1" cx="3.393" cy="3.393" r="3.393" transform="translate(31.408 61.948)"/>
+    <path id="Path_13534" data-name="Path 13534" class="cls-2" d="M16.233,62.553A13.234,13.234,0,0,1,6.877,39.962L39.962,6.877A13.232,13.232,0,0,1,58.676,25.59L25.59,58.676A13.19,13.19,0,0,1,16.233,62.553Z" transform="translate(2.31 2.31)"/>
+  </g>
+</svg>
