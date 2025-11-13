@@ -1,0 +1,4 @@
+# Optional .htaccess for pretty URLs or security - adjust as needed
+<IfModule mod_rewrite.c>
+RewriteEngine On
+</IfModule>
