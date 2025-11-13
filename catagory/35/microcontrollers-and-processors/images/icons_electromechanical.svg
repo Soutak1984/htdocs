@@ -1,0 +1,6 @@
+<svg id="icons_electromechanical" xmlns="http://www.w3.org/2000/svg" width="17.064" height="9.138" viewBox="0 0 17.064 9.138">
+  <path id="icons_magnetic" d="M4.569,0A4.578,4.578,0,0,0,0,4.569v6.854H3.427V4.569a1.142,1.142,0,1,1,2.285,0v6.854H9.138V4.569A4.578,4.578,0,0,0,4.569,0ZM1.142,8.567H2.285V10.28H1.142Zm5.711,0H8V10.28H6.854Z" transform="translate(0 9.138) rotate(-90)" fill="#0772b1"/>
+  <path id="Path_13524" data-name="Path 13524" d="M.33,0A.33.33,0,0,0,0,.33v.66a.33.33,0,0,0,.66,0V.33A.33.33,0,0,0,.33,0ZM1.981,0a.33.33,0,0,0-.33.33v.66a.33.33,0,0,0,.66,0V.33A.33.33,0,0,0,1.981,0ZM3.633,0A.33.33,0,0,0,3.3.33v.66a.33.33,0,0,0,.66,0V.33A.33.33,0,0,0,3.633,0Z" transform="translate(11.422 5.23) rotate(180)" fill="#db4a2d"/>
+  <path id="Path_13525" data-name="Path 13525" d="M-6.576.233H1.95V1.45H-6.576Z" transform="translate(15.114 0.865)" fill="#db4a2d"/>
+  <path id="Path_13526" data-name="Path 13526" d="M-6.479-1.04H2.028V.118H-6.479Z" transform="translate(15.036 7.891)" fill="#db4a2d"/>
+</svg>
