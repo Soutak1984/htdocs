@@ -1,0 +1,10 @@
+<svg id="icons_semiconductors" xmlns="http://www.w3.org/2000/svg" width="16.313" height="10.196" viewBox="0 0 16.313 10.196">
+  <path id="icons_led_diode" d="M10.2,6V8.039h6.117v1.02H10.2v4.078h6.117v1.02H10.2V16.2H7.137v-.51a.508.508,0,0,0-.51-.51H4.078a4.078,4.078,0,1,1,0-8.157H6.627a.508.508,0,0,0,.51-.51V6ZM9.176,7.02H8.157v8.157h1.02Zm-2.039.908a1.225,1.225,0,0,1-.51.112H4.078a3.059,3.059,0,1,0,0,6.117H6.627a1.225,1.225,0,0,1,.51.112v-2.66H6.532a1.529,1.529,0,1,1,0-1.02h.605ZM5.1,10.588a.51.51,0,1,0,.51.51A.5.5,0,0,0,5.1,10.588Z" transform="translate(0 -6)" fill="#0772b1"/>
+  <g id="Group_625" data-name="Group 625" transform="translate(3.592 6.629) rotate(-90)">
+    <path id="Path_13516" data-name="Path 13516" d="M1.021,0A1.021,1.021,0,1,0,2.042,1.021,1.021,1.021,0,0,0,1.021,0Z" transform="translate(0.088 1.535) rotate(-45)" fill="#8b8e98"/>
+    <path id="Path_13517" data-name="Path 13517" d="M1.021,0A1.021,1.021,0,1,0,2.042,1.021,1.021,1.021,0,0,0,1.021,0Z" transform="translate(0.511 0.512)" fill="#fafafa"/>
+    <path id="Path_13520" data-name="Path 13520" d="M.449,2.615A1.531,1.531,0,1,0,0,1.533,1.531,1.531,0,0,0,.449,2.615Zm.72-1.444a.51.51,0,1,1,0,.72h0A.51.51,0,0,1,1.169,1.17Z" transform="translate(0 0)" fill="#db4a2d"/>
+  </g>
+  <path id="Path_13522" data-name="Path 13522" d="M.326-.235H6.451V.784H.326Z" transform="translate(9.86 2.288)" fill="#db4a2d"/>
+  <path id="Path_13523" data-name="Path 13523" d="M.326-.607H6.451V.418H.326Z" transform="translate(9.86 7.747)" fill="#db4a2d"/>
+</svg>
